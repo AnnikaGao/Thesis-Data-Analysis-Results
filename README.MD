@@ -5,7 +5,7 @@ Y: probing types and level of depth
 
 # research questions
 - how rest of the cols impact on the Y
-- 什么样的probing type能引导出更深层的depth
+- which type of probing leads to deeper insights
 
 # data types
 | Column Name           | Current Python Type | Desired Python Type |
